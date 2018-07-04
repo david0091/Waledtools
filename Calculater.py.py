@@ -35,7 +35,7 @@ def cal():
     elif x =='/':
         calcu.divi()
     else:
-        print("False")
+        print("Fuck of Idon't give a sheet D)")
 
 cal()
 
